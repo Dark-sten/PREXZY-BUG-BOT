@@ -2273,6 +2273,8 @@ break
             case 'alive':
             case '?':
             case 'allmenu':
+	    case '💀':
+	    case 'm':
                 let xeonmenuoh = `╭━━━〔 🚀 𝙎-𝙏𝞢𝞜 𝘽𝙊𝙏 𝘽𝙐𝙂 🚀 〕━━━╮  
 ┃ 🛡️ Prefix : [ ]  
 ┃ 🔥 User : ${pushname}  
