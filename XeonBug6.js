@@ -2273,7 +2273,7 @@ break
             case 'alive':
             case '?':
             case 'allmenu':
-                let xeonmenuoh = `╭═══ PREXZY-𝙱𝚄𝙶-𝙱𝙾𝚃 ═══⊷
+                let xeonmenuoh = `╭═══  𝙎-𝙏𝞢𝞜-𝙱𝚄𝙶-𝙱𝙾𝚃 ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : [ ]
 ┃❃│ User :  ${pushname}
@@ -2401,7 +2401,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> Precious Ayomide ©`
+> Precious  𝙎-𝙏𝞢𝞜 ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
